@@ -14,7 +14,7 @@ retry-config:
   initial-interval: 1000
   max-interval: 50000
   multiplier: 2.0
-  max-attempts: 10x
+  max-attempts: 10
   sleep-time: 2000
 
 kafka-config:
